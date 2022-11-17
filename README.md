@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Murat Yüksel
+- 🌱 I’m currently learning Node.js, React, Expressjs
 - 👀 I’m interested in cinema, camping
-- 🌱 I’m currently learning Js, Node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on: mymrtyuksel@gmail.com
 
 
