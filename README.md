@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murat Yüksel
-- 🌱 I’m currently learning Node.js, React, Expressjs
+- 🌱 I’m currently learning Nextjs, ExpressJs, Nodejs, Java, Spring
 - 👀 I’m interested in cinema, camping
 - 📫 Reach me on: mymrtyuksel@gmail.com
 
