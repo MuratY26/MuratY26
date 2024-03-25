@@ -61,7 +61,6 @@
       />
       <br /><strong>Nodejs</strong>
     </td>
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
